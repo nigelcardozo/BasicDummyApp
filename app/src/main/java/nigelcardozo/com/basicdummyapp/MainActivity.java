@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Comment on my branch for test purposes
         displayToast(getString(R.string.whoop));
-        
     }
 
     /**
